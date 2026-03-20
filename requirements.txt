@@ -1,0 +1,8 @@
+tensorflow>=2.10
+keras>=2.10
+streamlit>=1.20
+opencv-python>=4.7
+numpy>=1.23
+pillow>=9.0
+scikit-learn>=1.1
+matplotlib>=3.5
