@@ -32,7 +32,7 @@ The current implementation uses a custom CNN trained on 2,000+ labeled satellite
 
 ![Demo GIF](docs/assets/demo.gif)
 
-Upload a satellite image via the Flask web app and receive an instant prediction with confidence score.
+Upload a satellite image via the streamlit web app and receive an instant prediction with confidence score.
 
 ---
 
