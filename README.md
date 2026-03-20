@@ -146,10 +146,10 @@ Dense(1) → Sigmoid
 
 | Metric    | Value  |
 |-----------|--------|
-| Accuracy  | ~90%+  |
-| Precision | ~89%   |
-| Recall    | ~91%   |
-| F1 Score  | ~90%   |
+| Accuracy  | ~95.3%+  |
+| Precision | ~94%   |
+| Recall    | ~96%   |
+| F1 Score  | ~95%   |
 
 *Evaluated on held-out test set. Full evaluation curves available in `notebooks/research.ipynb`.*
 
