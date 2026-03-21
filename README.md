@@ -30,7 +30,11 @@ The current implementation uses a custom CNN trained on 2,000+ labeled satellite
 
 ## Demo
 
-![Demo GIF](docs/assets/demo.gif)
+
+[streamlit-app-2026-03-21-01-03-60_CUkBXNjn.webm](https://github.com/user-attachments/assets/8b2c577f-428d-4bfa-8059-43dfaed9f206)
+
+
+
 
 Upload a satellite image via the streamlit web app and receive an instant prediction with confidence score.
 
@@ -88,6 +92,19 @@ pip install -r requirements.txt
 ## Usage
 
 ### Run the Web App
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/288b1e39-d054-445d-b4ed-351b2a817fc7" width="400"/></td>
+      <td><img src="https://github.com/user-attachments/assets/aef4c31f-b4b4-48fd-8156-b5e91f134b00" width="400"/></td>
+    </tr>
+    <tr>
+      <td align="center"><b>No Wildfire Detected</b></td>
+      <td align="center"><b>Wildfire Detected</b></td>
+    </tr>
+  </table>
+</div>
 
 ```bash
 cd src
