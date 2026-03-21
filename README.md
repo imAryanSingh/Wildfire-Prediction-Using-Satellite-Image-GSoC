@@ -30,7 +30,7 @@ The current implementation uses a custom CNN trained on 2,000+ labeled satellite
 
 ## Demo
 
-![Demo GIF](docs/assets/demo (1) (1).gif)
+![Demo GIF](docs/assets/demo.gif)
 
 Upload a satellite image via the streamlit web app and receive an instant prediction with confidence score.
 
