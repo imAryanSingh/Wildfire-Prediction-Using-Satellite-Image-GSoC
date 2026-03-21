@@ -135,6 +135,7 @@ Dense(1) → Sigmoid
 ```
 
 **Training details:**
+![Training Curves](docs/assets/training_curves.png)
 - Dataset: 2,000+ labeled satellite images (wildfire / no-wildfire)
 - Optimizer: Adam (lr=0.001)
 - Loss: Binary Cross-Entropy
