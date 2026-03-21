@@ -152,6 +152,8 @@ Dense(1) → Sigmoid
 | F1 Score  | ~95%   |
 
 *Evaluated on held-out test set. Full evaluation curves available in `notebooks/research.ipynb`.*
+<img width="658" height="547" alt="image" src="https://github.com/user-attachments/assets/51839c3b-1138-49b0-80a1-e17d11f90e14" />
+
 
 ---
 
