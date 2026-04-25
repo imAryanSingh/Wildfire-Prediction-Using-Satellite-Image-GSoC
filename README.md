@@ -224,8 +224,8 @@ Contributions are welcome! If you're interested in extending this project — pa
 
 **Aryan Singh**
 - GitHub: [@imAryanSingh](https://github.com/imAryanSingh)
-- LinkedIn: [im-aryan-singh](https://www.linkedin.com/in/im-aryan-singh)
-- Research: ISRO Space Applications Centre, Ahmedabad (Jan–Apr 2025)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-im--aryan--singh-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/im-aryan-singh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-imAryanSingh.github.io-534AB7?style=flat)](https://imAryanSingh.github.io)- Research: ISRO Space Applications Centre, Ahmedabad (Jan–Apr 2025)
 
 ---
 
