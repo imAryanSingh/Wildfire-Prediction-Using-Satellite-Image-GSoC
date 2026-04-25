@@ -8,12 +8,24 @@ __pycache__/
 dist/
 build/
 .eggs/
+*.pyc
+*.pyo
+.env
 
 # Virtual environments
 venv/
 env/
 .venv/
 .env/
+
+# Data files (too large for git)
+data/raw/
+*.csv
+*.xlsx
+
+# Models (use Git LFS or link externally)
+models/*.h5
+models/*.pkl
 
 # Jupyter
 .ipynb_checkpoints/
