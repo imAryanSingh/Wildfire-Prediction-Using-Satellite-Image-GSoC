@@ -167,7 +167,7 @@ Dense(1) → Sigmoid
 | Accuracy  | ~95.3%+  |
 | Precision | ~94%   |
 | Recall    | ~96%   |
-| F1 Score  | ~95%   |
+| F1 Score  | ~0.914   |
 
 *Evaluated on held-out test set. Full evaluation curves available in `notebooks/research.ipynb`.*
 <img width="658" height="547" alt="image" src="https://github.com/user-attachments/assets/51839c3b-1138-49b0-80a1-e17d11f90e14" />
